@@ -1,0 +1,23 @@
+{
+  "name": "jeremyloves-coffee-website",
+  "version": "0.0.1",
+  "description": "the main site for jeremyloves.coffee",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-me-godamnit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-loves-coffee/main-site.git"
+  },
+  "author": "Jeremy Stover (Kadajett)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremy-loves-coffee/main-site/issues"
+  },
+  "homepage": "https://github.com/jeremy-loves-coffee/main-site#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gzippo": "^0.2.0"
+  }
+}

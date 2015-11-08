@@ -1,0 +1,21 @@
+{
+  "name": "jeremyloves-coffee-website",
+  "description": "the main site for jeremyloves.coffee",
+  "main": "index.js",
+  "authors": [
+    "Jeremy Stover (Kadajett)"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.3"
+  }
+}
